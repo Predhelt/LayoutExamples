@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CommandLine.qml</file>
+        <file>CommandLineForm.ui.qml</file>
+        <file>CmdResp.qml</file>
+        <file>CmdRespForm.ui.qml</file>
+        <file>functions.js</file>
+        <file>Cycle.qml</file>
+        <file>CycleForm.ui.qml</file>
+        <file>StatusLight.qml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>accessories-text-editor-2.png</file>
+        <file>address-book-new-3.png</file>
+        <file>blueStone.png</file>
+        <file>clicknrun.png</file>
+        <file>command-history.png</file>
+        <file>go-home-5.png</file>
+        <file>goto.png</file>
+        <file>greenStone.png</file>
+        <file>input-gaming-3.png</file>
+        <file>redStone.png</file>
+        <file>yellowStone.png</file>
+        <file>D6main.ico</file>
+        <file>edit-redo-6.png</file>
+        <file>kpercentage-2.png</file>
+        <file>media-playback-start-7.png</file>
+        <file>media-skip-forward-7.png</file>
+        <file>stop-32.png</file>
+        <file>computer-32.png</file>
+        <file>games-config-theme.png</file>
+        <file>IO-Controls.png</file>
+        <file>refresh-32.png</file>
+        <file>system-run-4.png</file>
+        <file>system-settings.png</file>
+    </qresource>
+</RCC>
